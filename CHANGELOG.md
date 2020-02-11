@@ -1,4 +1,4 @@
-# bedrock-zcap-storage-http ChangeLog
+# bedrock-web-zcap-storage ChangeLog
 
 ## 1.0.0 - TBD
 
